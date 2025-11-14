@@ -1,6 +1,3 @@
-# 📄 **README.md (Final Professional Edition)**
-
-````md
 <h1 align="center">EmbSystem</h1>
 <p align="center">
   <b>A lightweight semantic text embedding engine built in TypeScript.</b><br>

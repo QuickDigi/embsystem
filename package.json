@@ -1,6 +1,6 @@
 {
   "name": "embsystem",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightweight semantic text embedding engine built with TypeScript",
   "main": "./src/embedding.ts",
   "type": "module",
@@ -13,7 +13,6 @@
     "semantic",
     "similarity",
     "nlp",
-    "deepaim",
     "hash-embeddings"
   ],
   "author": "QuickDigi",
