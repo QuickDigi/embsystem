@@ -1,0 +1,29 @@
+{
+  "name": "embsystem",
+  "version": "1.0.0",
+  "description": "A lightweight semantic text embedding engine built with TypeScript",
+  "main": "./src/embedding.ts",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "embedding",
+    "semantic",
+    "similarity",
+    "nlp",
+    "deepaim",
+    "hash-embeddings"
+  ],
+  "author": "QuickDigi",
+  "license": "MIT",
+  "files": [
+    "src/",
+    "README.md"
+  ],
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
